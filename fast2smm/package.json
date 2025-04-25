@@ -14,12 +14,15 @@
     "@tailwindcss/typography": "^0.5.16",
     "@tailwindcss/vite": "^4.1.4",
     "autoprefixer": "^10.4.21",
+    "clsx": "^2.1.1",
+    "motion": "^12.9.1",
     "postcss": "^8.5.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.5.0",
     "react-router-dom": "^7.5.2",
     "react-scroll": "^1.9.3",
+    "tailwind-merge": "^3.2.0",
     "tailwindcss": "^4.1.4"
   },
   "devDependencies": {
