@@ -51,7 +51,7 @@ export const StickyScroll = ({
  
   return (
     <div>
-      <h2 className="text-4xl font-heading mb-15 text-center pt-20 font-bold">Our Services</h2>
+      <h2 className="text-4xl font-heading mb-15 text-center pt-20">Our Services</h2>
     <motion.div
       className="relative flex h-[30rem] justify-center space-x-10 rounded-md  overflow-y-scroll no-scrollbar"
       ref={ref}
