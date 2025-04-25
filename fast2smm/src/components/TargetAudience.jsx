@@ -53,7 +53,7 @@ import { InfiniteMovingCards } from "./ui/infinite-moving-cards";
 
 export default function TargetAudience() {
   return (
-    <div className="h-[30rem] rounded-md flex flex-col antialiased bg-white dark:bg-black dark:bg-grid-black/[0.05] items-center relative overflow-hidden pt-30">
+    <div id="audience" className="h-[30rem] rounded-md flex flex-col antialiased bg-white dark:bg-black dark:bg-grid-black/[0.05] items-center relative overflow-hidden pt-30">
       <h2 className="text-4xl font-heading mb-15">Who We Serve</h2>
       <InfiniteMovingCards items={testimonials} direction="right" speed="slow" />
     </div>

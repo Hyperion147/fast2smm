@@ -19,7 +19,7 @@ const Services = () => {
   ];
 
   return (
-    <div className="w-full">
+    <div id='services' className="w-full">
       <StickyScroll content={content} />
     </div>
   );
