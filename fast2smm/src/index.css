@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:wght@400;600&display=swap');
+
+@import "tailwindcss";
+
+.animate-fade-in-up {
+    animation: fadeInUp 0.6s ease-out forwards;
+  }
